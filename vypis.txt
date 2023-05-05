@@ -1,0 +1,11 @@
+Hráč č.: 1 má 2 bodov
+Hráč č.: 2 má 5 bodov
+Hráč č.: 3 má 0 bodov
+Hráč č.: 4 má 0 bodov
+
+Najvyšší počet bodov
+má:
+Hráč č.: 2 (5)
+Hra sa skončila, pretože:
+Prehodili sa písmená
+3-krát.
