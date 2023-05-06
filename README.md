@@ -1,7 +1,12 @@
 # Scrabble
-Quick demo inside the game:
-Loading screen when running the script:
-Main menu:
+Quick demo inside the game: https://github.com/erikbozik/Scrabble/blob/master/scrabble%20demos/Scrabble_demo.png
+
+Loading screen when running the script: https://github.com/erikbozik/Scrabble/blob/master/scrabble%20demos/Loading%20screen.png
+
+Main menu: https://github.com/erikbozik/Scrabble/blob/master/scrabble%20demos/Main%20menu%20demo.png
+
+Game explanation:
+
 A loading screen shows up after running the script. 
 After that you are brought to the main menu with multiple game options which are shown in slovak.
 One player mode brings you straight to the game while the option for multiple players asks
