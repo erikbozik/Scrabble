@@ -1,4 +1,6 @@
-# Scrabble
+# Scrabble 
+Run program.py 
+
 Quick demo inside the game: https://github.com/erikbozik/Scrabble/blob/master/scrabble%20demos/Scrabble_demo.png
 
 Loading screen when running the script: https://github.com/erikbozik/Scrabble/blob/master/scrabble%20demos/Loading%20screen.png
